@@ -6,3 +6,10 @@
     - Classificazione: Un modello (XGBoost/Random Forest) per predire se un individuo supererà i 6 mesi di disoccupazione.  
     - Feature Engineering: Creazione di indicatori di "resilienza" (es. rapporto tra anni di esperienza e età).  
   •	Docker: Crea un container che esegue lo script di inferenza.  
+
+  A  
+   B  
+   C  
+     D  
+     E
+    
