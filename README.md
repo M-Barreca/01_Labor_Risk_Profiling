@@ -7,7 +7,5 @@
     - Feature Engineering: Creazione di indicatori di "resilienza" (es. rapporto tra anni di esperienza e età).  
   -	Docker: Crea un container che esegue lo script di inferenza.  
 
- - A  
- - B  
-    - C
+
     
