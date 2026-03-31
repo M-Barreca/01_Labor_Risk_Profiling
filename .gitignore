@@ -219,3 +219,5 @@ venv/
 
 labor_risk_profiling_dataset/
 
+*.html
+
