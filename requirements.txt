@@ -1,0 +1,26 @@
+# Core data
+numpy==1.26.4
+pandas==2.2.2
+
+# ML
+scikit-learn==1.4.2
+xgboost==2.0.3
+
+# Interpretability
+shap==0.45.1
+lime==0.2.0.1
+
+# Visualisation
+matplotlib==3.8.4
+seaborn==0.13.2
+missingno==0.5.2
+
+# Stats
+scipy==1.13.0
+
+# Notebook
+jupyter==1.0.0
+ipykernel==6.29.4
+
+# Utils
+joblib==1.4.0
